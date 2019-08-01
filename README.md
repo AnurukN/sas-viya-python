@@ -5,20 +5,20 @@ SAS VIYA Python Example
     - last update: 2019.08.01 
 
 ## Sample Code List
-0. Init
+**0. Init**
     - Example0_CAS Action Documentation.ipynb  (**CAS**)
     - Example1_Getting Started with SWAT.ipynb  (**SWAT**)
 
-1. Machine Learning : Hands-On, Python and CAS Integration on SAS Viya
+**1. Machine Learning : Hands-On, Python and CAS Integration on SAS Viya**
     - Example2.1_Python_Viya_Workshop.ipynb
     - Example2.2_Data Mining Workflow Python.ipynb
     - Example2.3_TitanicExample.ipynb
 
-2. Deep Learning
+**2. Deep Learning**
     - Example3_Identifying_Superheroes_From_Product_Images.ipynb   (**Image Analytics**)
     - Example4_DLPy_Demo_with_Timeseries-Video.ipynb   (**Time Series**)
 
-3. ETC
+**3. ETC**
     - Example5_Hartford Drug User Social Network Analysis using CAS HyperGroup.ipynb    (**Network**)
     - Example6_Factorization Machine Recommendation Engine Workflow.ipynb (**Recommendation**)
     - Example7_RNN_Twitter_Sentiment_Analysis.ipynb  (**Text Analytics**)
