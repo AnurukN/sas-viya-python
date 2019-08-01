@@ -36,8 +36,15 @@ SAS VIYA Python Example
 
 ## C.Tutorials
     - Kolon_Benit_Bigdata_Analytics_team_Python_tutorials.pptx  (password is ...)
+    
+## D. Code of Lecture at DanKook University
+Machine Learning & Data Mining
+    - lab01-linear-model.ipynb
+    - lab02_support_vector_machines.ipynb
+    - lab03_decision_trees.ipynb
+    - lab04_ensemble_learning_and_random_forests.ipynb
 
-## Question & Answer
+## Question -& Answer
 Please feel free to contact me 
     - ssrho@kolon.com
 
