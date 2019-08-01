@@ -1,8 +1,8 @@
 
 # sas-viya-python
 SAS VIYA Python Example
-    - Kolon Benit, BigData Analytics Team, Austin Rho
-    - last update: 2019.08.01 
+- Kolon Benit, BigData Analytics Team, Austin Rho
+- last update: 2019.08.01 
 
 ## Sample Code List
 **0. Init**
