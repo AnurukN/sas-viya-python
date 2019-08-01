@@ -46,8 +46,8 @@ Machine Learning & Data Mining
     - lab04_ensemble_learning_and_random_forests.ipynb
     - lab10_titanic_final.ipynb
 
-## Question -& Answer
+## Question & Answer
 Please feel free to contact me 
-    - ssrho@kolon.com
+    - ssrho@kolon.com, injoyer@yonsei.ac.kr
 
 
