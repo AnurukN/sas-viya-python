@@ -44,6 +44,7 @@ Machine Learning & Data Mining
     - lab02_support_vector_machines.ipynb
     - lab03_decision_trees.ipynb
     - lab04_ensemble_learning_and_random_forests.ipynb
+    - lab10_titanic_final.ipynb
 
 ## Question -& Answer
 Please feel free to contact me 
