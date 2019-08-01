@@ -5,7 +5,7 @@ SAS VIYA Python Example
 - last update: 2019.08.01 
 
 ## Sample Code List
-1. Python and CAS Integration on SAS Viya
+1. Hands-On : Python and CAS Integration on SAS Viya
 2. Deep Learning
 - Image Analytics
 
