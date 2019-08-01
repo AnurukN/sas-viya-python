@@ -46,7 +46,14 @@ Machine Learning & Data Mining
     - lab04_ensemble_learning_and_random_forests.ipynb
     - lab10_titanic_final.ipynb
 
-## E. Question & Answer
+## E. R U Ready?
+    - windows key + R
+    - type "CMD"  and run CMD Window
+    - type "git clone https://github.com/joyer7/sas-viya-python.git" on command window
+    - Enjoy It !!!
+    
+
+## F. Question & Answer
 Please feel free to contact Austin Rho 
     - ssrho@kolon.com, injoyer@yonsei.ac.kr
 
