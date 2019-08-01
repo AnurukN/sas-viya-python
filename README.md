@@ -4,7 +4,7 @@ SAS VIYA Python Example
 - Kolon Benit, BigData Analytics Team, Austin Rho, (Shin Seok)
 - last update: 2019.08.01 
 
-## Sample Code List
+## A. Sample Code List
 **0. Init**
 
     - Example0_CAS Action Documentation.ipynb  (**CAS**)
@@ -27,12 +27,15 @@ SAS VIYA Python Example
     - Example6_Factorization Machine Recommendation Engine Workflow.ipynb (**Recommendation**)
     - Example7_RNN_Twitter_Sentiment_Analysis.ipynb  (**Text Analytics**)
 
-## Sample Datas
+## B. Sample Datas
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/cars.csv
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/employees.sas7bdat
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/default_of_credit_card_clients.xls
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/durham_v2.csv
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/drug_network.csv
+
+## C.Tutorials
+    - Kolon_Benit_Bigdata_Analytics_team_Python_tutorials.pptx  (password is ...)
 
 ## Question & Answer
 Please feel free to contact me 
