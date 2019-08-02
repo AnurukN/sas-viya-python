@@ -34,8 +34,9 @@ SAS VIYA Python Example
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/durham_v2.csv
     - https://sas-viya-python.s3.ap-northeast-2.amazonaws.com/drug_network.csv
 
-## C.Tutorials
+## C. Tutorials
     - Kolon_Benit_Bigdata_Analytics_team_Python_tutorials.pptx  (password is ...)
+    - SAS_Viya_Programming_by_Python.pptx  (password is...)
     
 ## D. Code of Lecture at DanKook University
 Machine Learning & Data Mining
